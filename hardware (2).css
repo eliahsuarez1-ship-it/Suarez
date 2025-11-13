@@ -1,0 +1,18 @@
+header{
+	text-align: center;
+	background: lightgreen;
+	border-radius: 10px;
+}
+li{
+	display: inline-block;
+}
+.product{
+	column-count: 2;
+	background-color: yellowgreen;
+	display: flex;
+ flex-direction: row;
+ justify-content: right;
+}
+.store{
+	background-color: lightblue;
+}
